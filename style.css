@@ -1,0 +1,8 @@
+/* CSS untuk membuat tulisan besar */
+.big-text {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    color: #007bff; /* Warna teks biru (anda dapat mengganti dengan warna yang diinginkan) */
+    text-transform: uppercase; /* Mengubah teks menjadi huruf besar semua */
+}
